@@ -76,3 +76,10 @@ body{
 .button:hover{
   cursor: pointer;
 }
+
+@media screen and (max-width: 375px) {
+  .main-container{
+    padding: 1rem;
+    
+  }
+}
